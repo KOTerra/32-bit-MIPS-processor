@@ -1,0 +1,4 @@
+- versiunea finala nu a fost testata pe FPGA. 
+- in versiunile precedente nu functiona cum trebuie, dar nu a mai fost timp sa verific inca odata pe placa
+- am implementat toate componentele necesare plus registrele pipeline
+- aditional pentru instructiunile alese in plus au fost necesare semnale de jumpRegister
