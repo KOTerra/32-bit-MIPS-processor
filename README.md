@@ -15,8 +15,10 @@ XOR
 JR
 ADDI
 LW
-sw
+SW
 BEQ
 ANDI
 SLTI
 J
+
+<img width="2000" height="364" alt="image" src="https://github.com/user-attachments/assets/9aef95b3-df74-47db-bd7a-cdf47fb53dec" />
