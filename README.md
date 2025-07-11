@@ -1,2 +1,3 @@
 # 32-bit-MIPS-processor
-the MIPS single cycle architecture implemented in VHDL for NEXYS A7 FPGA
+Project for UTCN AC CTI year2 sem2 Computer Architecture lab
+the MIPS32 architecture single cycle and pipeline implemented in VHDL for NEXYS A7 FPGA
